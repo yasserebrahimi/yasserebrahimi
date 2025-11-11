@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, I'm Yasser Ebrahimi Fard</h2>
+<p align="center">
+  Senior Backend .NET Engineer • Cloud-native systems • AI/ML integrations
+</p>
 
-<!--
-**yasserebrahimi/yasserebrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Yasser's GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasserebrahimi&show_icons=true&theme=tokyonight)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasserebrahimi&layout=compact&theme=tokyonight)
