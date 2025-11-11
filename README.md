@@ -5,10 +5,6 @@
 
 ---
 
-### Yasser's GitHub Stats
-
-![Yasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasserebrahimi&show_icons=true&theme=tokyonight)
-
 ### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasserebrahimi&layout=compact&theme=tokyonight)
